@@ -56,9 +56,7 @@ window.addEventListener('DOMContentLoaded', event => {
                     sectionElement.innerHTML = html;
                 }).then(() => {
                     // MathJax
-                    if (typeof MathJax !== 'undefined' && typeof MathJax.typeset === 'function') {
-                        MathJax.typeset();
-                    }
+                    MathJax?.typeset?.();
                 })
                 .catch(error => console.log(error));
         }
