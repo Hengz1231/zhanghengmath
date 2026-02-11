@@ -9,7 +9,7 @@
 
 ### 2025
 
-**May 2025** 
+**May 2025**  
 1st Fudan University Geometric Analysis Doctoral Forum  
 📍 Fudan University, Shanghai, China
 
@@ -28,7 +28,7 @@
 Short Course on Topological Dynamical Systems and Ergodic Theory  
 📍 Xiamen University, Xiamen, China
 
-**November 2024**
+**November 2024**  
 Fudan-USTC Spectral Geometry Conference
 📍 University of Science and Technology of China, Hefei, China 
 
