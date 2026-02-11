@@ -13,7 +13,7 @@
 1st Fudan University Geometric Analysis Doctoral Forum  
 📍 Fudan University, Shanghai, China
 
-**November 2025**  
+**November 2025** 
 2nd Fudan University Geometric Analysis Doctoral Forum  
 📍 Fudan University, Shanghai, China
 
