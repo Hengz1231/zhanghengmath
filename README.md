@@ -45,17 +45,17 @@ The navigation menu appears at the top of every page and contains links like HOM
 To change navigation items, you must update ALL 6 HTML files:
 要修改导航项，必须更新所有6个HTML文件：
 
-- `index.html` (line ~102-106)
-- `teaching.html` (line ~86-96)
-- `talks.html` (line ~86-96)
-- `travel.html` (line ~86-96)
-- `publications.html` (line ~86-96)
-- `others.html` (line ~86-96)
+- `index.html` (navigation section: lines ~96-133)
+- `teaching.html` (navigation section: lines ~80-103)
+- `talks.html` (navigation section: lines ~80-103)
+- `travel.html` (navigation section: lines ~80-103)
+- `publications.html` (navigation section: lines ~80-103)
+- `others.html` (navigation section: lines ~80-103)
 
 **How to Change Navigation Text 如何修改导航文本:**
 
-1. Find the `<nav>` section in each HTML file (around line 82-113)
-   在每个HTML文件中找到 `<nav>` 部分（大约在第82-113行）
+1. Find the `<nav>` section in each HTML file (around lines 96-133 in index.html, 80-103 in other files)
+   在每个HTML文件中找到 `<nav>` 部分（index.html约在第96-133行，其他文件约在第80-103行）
 
 2. Look for the navigation items in `<li class="nav-item">` tags
    查找 `<li class="nav-item">` 标签中的导航项
@@ -90,10 +90,10 @@ Each page has a large blue title at the top (e.g., "Activities", "Research").
 
 **Files to Edit 需要编辑的文件:**
 
-- `travel.html` - Activities page title (line ~127)
-  活动页面标题（第127行）
-- `publications.html` - Research page title (line ~127)
-  研究页面标题（第127行）
+- `travel.html` - Activities page title (line 132)
+  活动页面标题（第132行）
+- `publications.html` - Research page title (line 132)
+  研究页面标题（第132行）
 - `teaching.html` - Teaching page title
   教学页面标题
 - `talks.html` - Talks page title
