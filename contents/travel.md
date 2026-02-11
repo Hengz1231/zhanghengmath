@@ -47,5 +47,5 @@ Fudan-USTC Spectral Geometry Conference
 
 ## Academic Visit
 
-1. 📅 **2026.01.18 — 2026.01.22** 
-   📍 **Chern Institute of Mathematics, Nankai University, Tianjin, China**
+1. 📅 *2026.01.18 — 2026.01.22*
+📍 **Chern Institute of Mathematics, Nankai University, Tianjin, China**
