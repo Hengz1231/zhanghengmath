@@ -4,7 +4,6 @@
 
 **January 2026**  
 2026 USTC Winter Workshop on Combinatorics and Graph Theory  
-
 📍 University of Science and Technology of China, Hefei, China
 
 
@@ -12,12 +11,10 @@
 
 **May 2025** 
 1st Fudan Geometric Analysis Doctoral Forum 
-
 📍 Fudan University, Shanghai, China
 
 **November 2025**  
 2nd Fudan Geometric Analysis Doctoral Forum  
-
 📍 Fudan University, Shanghai, China
 
 
