@@ -1,7 +1,7 @@
-## Academic conferences
+## Academic Conferences
 
 Content to be added.
 
-## Academic exchange
+## Academic Exchange
 
 Content to be added.
