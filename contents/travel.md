@@ -22,7 +22,7 @@
 
 **September 2024**  
 11th National Conference on Combinatorics and Graph Theory  
-📍 Shandong University, Jinan, China
+📍 Shandong University, Qingdao, China
 
 **November 2024**  
 Short Course on Topological Dynamical Systems and Ergodic Theory  
