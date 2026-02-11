@@ -45,7 +45,7 @@ Fudan-USTC Spectral Geometry Conference
 📍 Fudan University, Shanghai, China
 
 
-## Academic Exchange
+## Academic Visit
 
 **2026. 01. 18--2026. 01. 22**  
  📍 Naikai University, Tianjin, China
