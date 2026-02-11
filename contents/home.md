@@ -1,5 +1,5 @@
 
-I am currently a Ph.D. student at the School of Mathematical Sciences. I'd be happy to make friends with you and discuss math together. You can reach me by Email or QQ.
+I am currently a Ph.D. student at the School of Mathematical Sciences, University of Science and Technology of China (USTC). I'd be happy to make friends with you and discuss math together. You can reach me by Email or QQ.
 
 #### Email  
 hengz@mail.ustc.edu.cn
@@ -8,9 +8,7 @@ hengz@mail.ustc.edu.cn
 2501260820
 
 #### Research Interests  
-My current research interests lie in topics from discrete geometric and discrete analysis. There are five kinds of problems which I am particularly interested in:
- 1. Problems guided by ideas from Riemannian geometry and global analysis.
- 2. Problems concerned in graph theory or theoretical computer science which may be attacked by geometric analysis methods.
- 3. (Harmonic; Nonlinear) analysis methods/results that can guide the investigation of new phenomena in discrete spaces.
- 4. Discrete (geometry; analysis) methods/results that can guide the investigation of new phenomena in continuous spaces.
- 5. Periodic Schrödinger operator and quasiperiodic Schrödinger operator on lattice.
+My current research interests center on topics in discrete geometry and discrete analysis. I am particularly drawn to three classes of problems:
+1. Discrete problems informed by ideas from Riemannian geometry and global analysis, as well as questions in graph theory that may be approached through geometric analysis methods.
+2. Analytical methods and results that can illuminate new phenomena in discrete spaces, and conversely, discrete methods and results that can shed light on new phenomena in continuous spaces.
+3. Quasiperiodic and periodic Schrödinger operators on lattices.
