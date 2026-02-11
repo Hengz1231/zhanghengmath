@@ -28,7 +28,10 @@
 Short Course on Topological Dynamical Systems and Ergodic Theory  
 📍 Xiamen University, Xiamen, China
 
----
+**November 2024**
+Fudan-USTC Spectral Geometry Conference
+📍 University of Science and Technology of China, Hefei, China 
+
 
 ### 2023
 
@@ -44,6 +47,7 @@ Geometric Analysis and Variational Methods Workshop
 Fudan-USTC Spectral Geometry Conference  
 📍 Fudan University, Shanghai, China
 
+---
 
 ## Academic Visit
 
