@@ -26,14 +26,14 @@
 
 ---
 
-
-02.📄 Existence results for Tzitzeica equation via topological degree method on graphs.  
-   👤 With Kaizhe Chen  
-   🔗 [arXiv:2505.19704](https://arxiv.org/abs/arXiv:2505.19704)
+**02**  
+📄 Existence results for Tzitzeica equation via topological degree method on graphs.  
+👤 With Kaizhe Chen  
+🔗 [arXiv:2505.19704](https://arxiv.org/abs/arXiv:2505.19704)
 
 ---
 
- 
-01.📄 Curvature and local matchings of conference graphs and extensions.  
-   👤 With Kaizhe Chen and Shiping Liu  
-   🔗 [arXiv:2409.06418](https://arxiv.org/abs/arXiv:2409.06418)
+ **01**  
+📄 Curvature and local matchings of conference graphs and extensions.  
+👤 With Kaizhe Chen and Shiping Liu  
+🔗 [arXiv:2409.06418](https://arxiv.org/abs/arXiv:2409.06418)
