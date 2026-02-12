@@ -1,3 +1,8 @@
+06 - With Kaizhe Chen and Shiping Liu.  [arXiv:2602.10396](https://arxiv.org/abs/arXiv:2602.10396)
+
+On Lichnerowicz sharp distance-regular graphs
+
+
 05 - With Zhiqiang Wan.  [arXiv:2512.22613](https://arxiv.org/abs/arXiv:2512.22613)
 
   Dispersive estimates for discrete Klein-Gordon equations on one-dimensional lattice with quasi-periodic potentials.
