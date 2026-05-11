@@ -1,3 +1,10 @@
+**07**  
+📄 The Cauchy problem for the improved Boussinesq equation with spatially quasi-periodic initial data
+👤 With Zhiqiang Wan and Wenji Wu
+🔗 [arXiv:2605.07669](https://arxiv.org/abs/arXiv:2605.07669)
+
+---
+
 **06**  
 📄 On Lichnerowicz sharp distance-regular graphs  
 👤 With Kaizhe Chen and Shiping Liu  
