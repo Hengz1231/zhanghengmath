@@ -1,3 +1,10 @@
+**08**  
+📄 Gromov's Euclidean Endpoint $C^0$ Rigidity for the Positive Mass Theorem  
+👤 With Jiangcheng You  
+🔗 [arXiv:2606.15372](https://arxiv.org/abs/arXiv:2606.15372)
+
+---
+
 **07**  
 📄 The Cauchy problem for the improved Boussinesq equation with spatially quasi-periodic initial data  
 👤 With Zhiqiang Wan and Wenji Wu  
