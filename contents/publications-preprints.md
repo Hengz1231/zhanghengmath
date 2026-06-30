@@ -1,7 +1,7 @@
 **11**  
 📄 Scalar-Flatness for Critical Metrics of the $L^2$-Scalar Curvature Functional in Dimensions $5\le n\le 9$  
 👤 **Heng Zhang**   
-🔗 [arXiv:2606.27848](https://arxiv.org/abs/arXiv:2606.27848)
+🔗 [arXiv:2606.28897](https://arxiv.org/abs/arXiv:2606.28897)
 
 ---
 
