@@ -14,7 +14,7 @@
 
 **09**  
 📄 Arbitrarily Many Non-degenerate Local Maxima of First Nonzero Eigenfunctions on Positively Curved Two-spheres  
-👤 **Heng Zhang**
+👤 **Heng Zhang**  
 🔗 [arXiv:2606.26419](https://arxiv.org/abs/arXiv:2606.26419)
 
 ---
