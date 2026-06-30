@@ -1,12 +1,12 @@
 **11**  
-📄 Scalar-Flatness for Critical Metrics of the $L^2$-Scalar Curvature Functional in Dimensions $5\le n\le 9$
+📄 Scalar-Flatness for Critical Metrics of the $L^2$-Scalar Curvature Functional in Dimensions $5\le n\le 9$  
 👤 **Heng Zhang**   
 🔗 [arXiv:2606.27848](https://arxiv.org/abs/arXiv:2606.27848)
 
 ---
 
 **10**  
-📄 Reciprocal sums of Neumann eigenvalues in non-Euclidean space forms
+📄 Reciprocal sums of Neumann eigenvalues in non-Euclidean space forms  
 👤 Jiangcheng You and **Heng Zhang**   
 🔗 [arXiv:2606.27848](https://arxiv.org/abs/arXiv:2606.27848)
 
