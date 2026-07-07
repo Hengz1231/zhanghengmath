@@ -6,7 +6,7 @@ hengz@mail.ustc.edu.cn or 2501260820@qq.com
 
 
 #### Research Interests  
-My current research interests center on topics in geometry analysis in Riemannian manifolds and graphs. I am particularly drawn to three classes of problems:
-1. Discrete curvatures;
+My research lies at the intersection of geometric analysis and spectral theory, with a focus on the following three directions:
+1. Generalized curvature in various spaces;
 2. Spectral problems on graphs and manifolds;
-3. Riemannian geometry.
+3. Interplay between geometry and analysis.  
