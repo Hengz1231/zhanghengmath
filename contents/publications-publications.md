@@ -1,4 +1,4 @@
-**02**  Ricci curvature, diameter and eigenvalues of amply regular graphs
+**02**  Ricci curvature, diameter and eigenvalues of amply regular graphs  
 👤 Kaizhe Chen, Chunyang Hu, Shiping Liu and **Heng Zhang**  🔗 [<span style="color:#0969da; font-style:italic;">Calculus of Variations and Partial Differential Equations</span>](https://link.springer.com/article/10.1007/s00526-026-03309-1), 2026
 
 
