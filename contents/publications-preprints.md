@@ -34,9 +34,8 @@
 ---
 
 **06**  
-📄 On Lichnerowicz sharp distance-regular graphs  
+📄 On Lichnerowicz sharp distance-regular graphs [arXiv](https://arxiv.org/abs/arXiv:2602.10396)  
 👤 Kaizhe Chen, Shiping Liu and **Heng Zhang**  
-🔗 [arXiv](https://arxiv.org/abs/arXiv:2602.10396)
 
 ---
 
@@ -69,6 +68,5 @@
 ---
 
  **01**  
-📄 Curvature and local matchings of conference graphs and extensions  
+📄 Curvature and local matchings of conference graphs and extensions [arXiv](https://arxiv.org/abs/arXiv:2602.10396) 
 👤 Kaizhe Chen, Shiping Liu and **Heng Zhang**  
-🔗 [arXiv](https://arxiv.org/abs/arXiv:2409.06418)
