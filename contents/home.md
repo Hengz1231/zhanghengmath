@@ -7,6 +7,6 @@ hengz@mail.ustc.edu.cn or 2501260820@qq.com
 
 #### Research Interests  
 My research lies at the intersection of geometric analysis and spectral theory, with a focus on the following three directions:
-1. Synthetic curvature in various spaces;
-2. Spectral problems on graphs and manifolds;
-3. Variational problems and rigidity in geometry.
+1. Synthetic Ricci curvatures and their applications;
+2. Problems related to Scalar curvatures;
+3. Spectral problems on graphs and manifolds;
