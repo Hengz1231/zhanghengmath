@@ -1,5 +1,5 @@
 - 📄 Topological Rigidity of Contractible 3-Manifolds and Handlebody Interiors under Nonnegative Scalar Curvature 🔗[arXiv link](https://arxiv.org/abs/arXiv:2607.25015)    
-👤 **Heng Zhang**   
+👤 Jiangcheng You and **Heng Zhang**   
 
 
 
