@@ -75,6 +75,5 @@
 
 ---
 
- **01.**  
-📄 Curvature and local matchings of conference graphs and extensions 🔗[arXiv](https://arxiv.org/abs/arXiv:2602.10396)   
-👤 Kaizhe Chen, Shiping Liu and **Heng Zhang**  
+ - 📄 Curvature and local matchings of conference graphs and extensions [arXiv](https://arxiv.org/abs/arXiv:2602.10396)  
+  👤 Kaizhe Chen, Shiping Liu and **Heng Zhang**
