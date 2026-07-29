@@ -41,34 +41,23 @@
 
 ---
 
-**06.**  
-📄 On Lichnerowicz sharp distance-regular graphs 🔗[arXiv link](https://arxiv.org/abs/arXiv:2602.10396)  
-👤 Kaizhe Chen, Shiping Liu and **Heng Zhang**  
-
 ---
 
-**05.**  
-📄 Dispersive estimates for discrete Klein-Gordon equations on one-dimensional lattice with quasi-periodic potentials 🔗[arXiv link](https://arxiv.org/abs/arXiv:2512.22613)    
+-📄 Dispersive estimates for discrete Klein-Gordon equations on one-dimensional lattice with quasi-periodic potentials 🔗[arXiv link](https://arxiv.org/abs/arXiv:2512.22613)    
 👤 Zhiqiang Wan and **Heng Zhang**  
 
 
 ---
 
-**04.**  
-📄 Observable sets for free Schrödinger equation on combinatorial graphs 🔗[arXiv link](https://arxiv.org/abs/arXiv:2511.10358)    
+-📄 Observable sets for free Schrödinger equation on combinatorial graphs 🔗[arXiv link](https://arxiv.org/abs/arXiv:2511.10358)    
 👤 Zhiqiang Wan and **Heng Zhang**  
 
 
 ---
 
-**03.**  
-📄 Strichartz estimate for discrete Schrödinger equation on layered King's grid 🔗[arXiv link](https://arxiv.org/abs/arXiv:2507.20142)   
+ 
+-📄 Strichartz estimate for discrete Schrödinger equation on layered King's grid 🔗[arXiv link](https://arxiv.org/abs/arXiv:2507.20142)   
 👤 Zhiqiang Wan and **Heng Zhang**  
-
-
----
-
-
 
 
 ---
