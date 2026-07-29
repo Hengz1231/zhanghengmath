@@ -1,3 +1,11 @@
+
+**04.**  
+📄 On Lichnerowicz sharp distance-regular graphs  
+👤 Kaizhe Chen, Shiping Liu and **Heng Zhang**  
+🔗 Discrete Mathematics, accepted.
+
+---
+
 **03.**  
 📄 Existence results for Tzitzeica equation via topological degree method on graphs  
 👤 Kaizhe Chen and **Heng Zhang**  
