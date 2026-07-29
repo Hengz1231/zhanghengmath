@@ -68,9 +68,7 @@
 
 ---
 
-**02.**  
-📄 Existence results for Tzitzeica equation via topological degree method on graphs 🔗[arXiv link](https://arxiv.org/abs/arXiv:2505.19704)   
-👤 Kaizhe Chen and **Heng Zhang**  
+
 
 
 ---
