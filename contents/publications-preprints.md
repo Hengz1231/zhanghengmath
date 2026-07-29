@@ -1,45 +1,41 @@
-**12.**  
-📄 Uniform Comparison of Hyperbolic Ball Volumes on the Universal Cover 🔗[arXiv link](https://arxiv.org/abs/arXiv:2607.10424)    
+-📄 Topological Rigidity of Contractible 3-Manifolds and Handlebody Interiors under Nonnegative Scalar Curvature 🔗[arXiv link](https://arxiv.org/abs/arXiv:2607.25015)    
+👤 **Heng Zhang**   
+
+---
+
+-📄 Uniform Comparison of Hyperbolic Ball Volumes on the Universal Cover 🔗[arXiv link](https://arxiv.org/abs/arXiv:2607.10424)    
+👤 **Heng Zhang**   
+
+
+---
+ 
+-📄 Scalar-Flatness for Critical Metrics of the $L^2$-Scalar Curvature Functional in Dimensions $5\le n\le 9$ 🔗[arXiv link](https://arxiv.org/abs/arXiv:2606.28897)    
 👤 **Heng Zhang**   
 
 
 ---
 
-
-**11.**  
-📄 Scalar-Flatness for Critical Metrics of the $L^2$-Scalar Curvature Functional in Dimensions $5\le n\le 9$ 🔗[arXiv link](https://arxiv.org/abs/arXiv:2606.28897)    
-👤 **Heng Zhang**   
-
-
----
-
-**10.**  
-📄 Reciprocal sums of Neumann eigenvalues in non-Euclidean space forms 🔗[arXiv link](https://arxiv.org/abs/arXiv:2606.27848)   
+-📄 Reciprocal sums of Neumann eigenvalues in non-Euclidean space forms 🔗[arXiv link](https://arxiv.org/abs/arXiv:2606.27848)   
 👤 Jiangcheng You and **Heng Zhang**   
 
 
 ---
 
-**09.**  
-📄 Arbitrarily Many Non-degenerate Local Maxima of First Nonzero Eigenfunctions on Positively Curved Two-spheres 🔗[arXiv link](https://arxiv.org/abs/arXiv:2606.26419)   
+-📄 Arbitrarily Many Non-degenerate Local Maxima of First Nonzero Eigenfunctions on Positively Curved Two-spheres 🔗[arXiv link](https://arxiv.org/abs/arXiv:2606.26419)   
 👤 **Heng Zhang**  
 
 
 ---
-
-**08.**  
-📄 Gromov's Euclidean Endpoint $C^0$ Rigidity for the Positive Mass Theorem 🔗[arXiv link](https://arxiv.org/abs/arXiv:2606.15372)   
+ 
+-📄 Gromov's Euclidean Endpoint $C^0$ Rigidity for the Positive Mass Theorem 🔗[arXiv link](https://arxiv.org/abs/arXiv:2606.15372)   
 👤 Jiangcheng You and **Heng Zhang**   
 
 
 ---
-
-**07.**  
-📄 The Cauchy problem for the improved Boussinesq equation with spatially quasi-periodic initial data 🔗[arXiv link](https://arxiv.org/abs/arXiv:2605.07669)   
+ 
+-📄 The Cauchy problem for the improved Boussinesq equation with spatially quasi-periodic initial data 🔗[arXiv link](https://arxiv.org/abs/arXiv:2605.07669)   
 👤 Zhiqiang Wan, Wenji Wu and **Heng Zhang**  
 
-
----
 
 ---
 
