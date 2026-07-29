@@ -3,6 +3,7 @@
 👤 Kaizhe Chen and **Heng Zhang**  
 🔗 Communications in Mathematics and Statistics, accepted.
 
+---
 
 **02.**  
 📄 Ricci curvature, diameter and eigenvalues of amply regular graphs  
