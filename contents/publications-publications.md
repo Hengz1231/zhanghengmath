@@ -1,3 +1,9 @@
+**03.**  
+📄 Existence results for Tzitzeica equation via topological degree method on graphs  
+👤 Kaizhe Chen and **Heng Zhang**  
+🔗 Communications in Mathematics and Statistics, accepted.
+
+
 **02.**  
 📄 Ricci curvature, diameter and eigenvalues of amply regular graphs  
 👤 Kaizhe Chen, Chunyang Hu, Shiping Liu and **Heng Zhang**   
