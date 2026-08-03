@@ -2,7 +2,7 @@
 **04.**  
 📄 On Lichnerowicz sharp distance-regular graphs  
 👤 Kaizhe Chen, Shiping Liu and **Heng Zhang**  
-🔗 Discrete Mathematics, accepted.
+🔗 [<span style="color:#0969da; font-style:italic;">Discrete Mathematics</span>](https://www.sciencedirect.com/science/article/pii/S0012365X26003845?dgcid=coauthor), 2026
 
 ---
 
