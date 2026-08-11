@@ -1,3 +1,7 @@
+- 📄 Pinching and Tensorial Rigidity for Ergodicity of Frame Flows      
+👤 **Heng Zhang** and Shuhao Zhang 🔗[arXiv link](https://arxiv.org/abs/arXiv:2608.09600)
+
+
 - 📄 Topological Rigidity of Contractible 3-Manifolds and Handlebody Interiors under Nonnegative Scalar Curvature      
 👤 Jiangcheng You and **Heng Zhang** 🔗[arXiv link](https://arxiv.org/abs/arXiv:2607.25015) 
 
