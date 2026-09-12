@@ -51,6 +51,8 @@
 ---
 
 ## Academic Visit
+**02.** 📅 **2026.09.09 — 2026.09.13**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📍 **Institute of Mathematics, AMSS of Chinese Academy of Sciences, Beijing, China**
 
 **01.** 📅 **2026.01.18 — 2026.01.22**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📍 **Chern Institute of Mathematics, Nankai University, Tianjin, China**
