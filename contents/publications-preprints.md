@@ -12,7 +12,7 @@
 
 
 
-- 👤 Jiangcheng You and **Heng Zhang** 🔗[arXiv link](https://arxiv.org/abs/arXiv:2606.27848)
+- 👤 Jiangcheng You and **Heng Zhang** 🔗[arXiv link](https://arxiv.org/abs/arXiv:2606.27848)  
   📄 Reciprocal sums of Neumann eigenvalues in non-Euclidean space forms     
 
 
