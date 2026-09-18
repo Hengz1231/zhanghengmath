@@ -40,10 +40,8 @@
 
 
 
-
 - 📄 Dispersive estimates for discrete Klein-Gordon equations on one-dimensional lattice with quasi-periodic potentials     
 👤 Zhiqiang Wan and **Heng Zhang** 🔗[arXiv link](https://arxiv.org/abs/arXiv:2512.22613)
-
 
 
 
