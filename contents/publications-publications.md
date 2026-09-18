@@ -1,3 +1,7 @@
+**05.**  
+📄 Scalar-Flatness for Critical Metrics of the $L^2$-Scalar Curvature Functional in Dimensions $5\le n\le 9$      
+👤 **Heng Zhang**   
+🔗 Journal de Mathématiques Pures et Appliquées, accepted.
 
 **04.**  
 📄 On Lichnerowicz sharp distance-regular graphs  
