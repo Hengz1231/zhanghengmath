@@ -50,12 +50,4 @@
 - 📄 Observable sets for free Schrödinger equation on combinatorial graphs     
 👤 Zhiqiang Wan and **Heng Zhang** 🔗[arXiv link](https://arxiv.org/abs/arXiv:2511.10358)  
 
-
- 
-- 📄 Strichartz estimate for discrete Schrödinger equation on layered King's grid    
-👤 Zhiqiang Wan and **Heng Zhang** 🔗[arXiv link](https://arxiv.org/abs/arXiv:2507.20142)  
-
-
-
- - 📄 Curvature and local matchings of conference graphs and extensions  
   👤 Kaizhe Chen, Shiping Liu and **Heng Zhang** 🔗[arXiv link](https://arxiv.org/abs/arXiv:2409.06418) 
