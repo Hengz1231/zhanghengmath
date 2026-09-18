@@ -47,5 +47,3 @@
 
 - 📄 Observable sets for free Schrödinger equation on combinatorial graphs     
 👤 Zhiqiang Wan and **Heng Zhang** 🔗[arXiv link](https://arxiv.org/abs/arXiv:2511.10358)  
-
-  👤 Kaizhe Chen, Shiping Liu and **Heng Zhang** 🔗[arXiv link](https://arxiv.org/abs/arXiv:2409.06418) 
