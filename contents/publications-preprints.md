@@ -1,3 +1,7 @@
+- 👤 Jiangcheng You and **Heng Zhang** 🔗[arXiv link](https://arxiv.org/abs/arXiv:2609.26665)  
+  📄 Immersed hypersurfaces with positive first Newton transformation      
+
+
 - 👤 **Heng Zhang** and Shuhao Zhang 🔗[arXiv link](https://arxiv.org/abs/arXiv:2608.09600)  
   📄 Pinching and Tensorial Rigidity for Ergodicity of Frame Flows      
 
@@ -25,9 +29,6 @@
   📄 Gromov's Euclidean Endpoint $C^0$ Rigidity for the Positive Mass Theorem    
 
 
-
-- 👤 Zhiqiang Wan and **Heng Zhang** 🔗[arXiv link](https://arxiv.org/abs/arXiv:2512.22613)  
-  📄 Dispersive estimates for discrete Klein-Gordon equations on one-dimensional lattice with quasi-periodic potentials     
 
 
 - 👤 Zhiqiang Wan and **Heng Zhang** 🔗[arXiv link](https://arxiv.org/abs/arXiv:2511.10358)  
