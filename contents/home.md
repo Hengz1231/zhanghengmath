@@ -6,7 +6,6 @@ hengz@mail.ustc.edu.cn or 2501260820@qq.com
 
 
 #### Research Interests  
-My research lies at the intersection of geometric analysis and spectral theory, with a focus on the following three directions:
+My research lies at the intersection of geometric analysis and spectral theory, with a focus on the following two directions:
 1. Problems related to Scalar curvature and Ricci curvature;
-2. Spectrum and its applications on graphs and manifolds;
-3. Ergodicity of dynamics on manifolds.
+2. Spectrum and its applications on graphs and manifolds.
