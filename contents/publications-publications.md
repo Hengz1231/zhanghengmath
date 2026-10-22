@@ -1,6 +1,6 @@
 **05.** 👤 **Heng Zhang**     
 📄 Scalar-Flatness for Critical Metrics of the $L^2$-Scalar Curvature Functional in Dimensions $5\le n\le 9$      
- 🔗 Journal de Mathématiques Pures et Appliquées, accepted.
+ 🔗 [<span style="color:#0969da; font-style:italic;">Journal de Mathématiques Pures et Appliquées</span>]([https://www.sciencedirect.com/science/article/pii/S0012365X26003845?dgcid=coauthor](https://www.sciencedirect.com/science/article/abs/pii/S0021782426001583)), 2026, accepted.
 
 
 **04.** 👤 Kaizhe Chen, Shiping Liu and **Heng Zhang**    
