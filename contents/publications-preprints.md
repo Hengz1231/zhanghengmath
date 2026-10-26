@@ -1,3 +1,6 @@
+- 👤 Weiyang Li and **Heng Zhang** 🔗[arXiv link](https://arxiv.org/abs/arXiv:2610.21963)  
+  📄 Singular Yamabe metrics on complements of closed sets   
+
 - 👤 Jiangcheng You and **Heng Zhang** 🔗[arXiv link](https://arxiv.org/abs/arXiv:2609.26665)  
   📄 Immersed hypersurfaces with positive first Newton transformation      
 
