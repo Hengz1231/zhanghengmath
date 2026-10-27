@@ -1,14 +1,14 @@
-**05.** 👤 **Heng Zhang**  
+**05.** 👤 Kaizhe Chen and **Heng Zhang**  
+📄 Existence results for Tzitzeica equation via topological degree method on graphs  
+🔗 Communications in Mathematics and Statistics, accepted.  
+
+**04.** 👤 **Heng Zhang**  
 📄 Scalar-Flatness for Critical Metrics of the $L^2$-Scalar Curvature Functional in Dimensions $5\le n\le 9$  
 🔗 [Journal de Mathématiques Pures et Appliquées](https://www.sciencedirect.com/science/article/abs/pii/S0021782426001583) **217**, 104012, 2027.  
 
-**04.** 👤 Kaizhe Chen, Shiping Liu and **Heng Zhang**  
+**03.** 👤 Kaizhe Chen, Shiping Liu and **Heng Zhang**  
 📄 On Lichnerowicz sharp distance-regular graphs  
 🔗 [Discrete Mathematics](https://www.sciencedirect.com/science/article/pii/S0012365X26003845?dgcid=coauthor) **350**, 115360, 2027.  
-
-**03.** 👤 Kaizhe Chen and **Heng Zhang**  
-📄 Existence results for Tzitzeica equation via topological degree method on graphs  
-🔗 Communications in Mathematics and Statistics, accepted.  
 
 **02.** 👤 Kaizhe Chen, Chunyang Hu, Shiping Liu and **Heng Zhang**  
 📄 Ricci curvature, diameter and eigenvalues of amply regular graphs  
